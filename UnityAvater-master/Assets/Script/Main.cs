@@ -8,8 +8,7 @@
     Second, after merge meshes, the new mesh contains many materials(in this project, it has 4 material), that means it has at least 4 drawcalls(depends in the shader).
     So to merge materials together will reduce drawcalls and improve game performance.
 
-    Auther: ZouChunyi
-    E-mail: zmafly@163.com
+ 
  * 换装系统包含两个重要的部分，由于身体的各个部件是单独的prefab，因此需要合并其Mesh和Material
  * 
 
